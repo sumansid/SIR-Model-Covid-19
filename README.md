@@ -11,6 +11,11 @@ Repo that contains the Excel and Jupyter notebook files for the SIR Model
 
 
 # SIR in One graph
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Susceptible`
+- ![#fc9d03](https://placehold.it/15/fc9d03/000000?text=+) `Infected`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Removed`
+
+
 <img width="366" alt="Screen Shot 2020-04-13 at 10 52 00 AM" src="https://user-images.githubusercontent.com/53033648/79130376-de735480-7d74-11ea-8446-c34e8ea9383f.png">
 
 
