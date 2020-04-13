@@ -2,6 +2,7 @@
 Repo that contains the Excel and Jupyter notebook files for the SIR Model
 
 # SIR Modeling 
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Actual Data`
 
 ![download (11)](https://user-images.githubusercontent.com/53033648/79083872-cc56cf00-7cfe-11ea-954c-b786739963b3.png)
 
