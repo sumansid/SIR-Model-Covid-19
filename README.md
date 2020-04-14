@@ -1,7 +1,7 @@
 # SIR-Model-Covid-19
 Repo that contains the Excel and Jupyter notebook files for the SIR Model
 
-# SIR Model Results
+# Results
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Actual Data`
 - ![#fc9d03](https://placehold.it/15/fc9d03/000000?text=+) `SIR MODEL Prediction`
 
