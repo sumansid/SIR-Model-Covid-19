@@ -29,3 +29,11 @@ SIR MODEL.xlsx
 1. Open the SIR MODEL.xlsx file.
 2. Change the Susceptible, Infected, Removed for the first row.
 3. Change the recovery rate and transmission rate.
+
+# Sources : 
+
+Backer, Jantien A et al. “Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020.” Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin vol. 25,5 (2020): 2000062. doi:10.2807/1560-7917.ES.2020.25.5.2000062
+
+https://www.worldometers.info/coronavirus/coronavirus-death-rate/
+
+https://www.sciencedirect.com/science/article/pii/S1201971220300539
