@@ -10,7 +10,7 @@ Repo that contains the Excel and Jupyter notebook files for the SIR Model
 
 
 
-# SIR in One graph
+# More Graphs
 - ![#059c1e](https://placehold.it/15/059c1e/000000?text=+) `Susceptible`
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Removed`
 - ![#fc9d03](https://placehold.it/15/fc9d03/000000?text=+) `Infected`
@@ -20,9 +20,12 @@ Repo that contains the Excel and Jupyter notebook files for the SIR Model
 
 
 
+
+
 SIR MODEL.xlsx
 
 <img width="919" alt="Screen Shot 2020-04-12 at 6 58 07 PM" src="https://user-images.githubusercontent.com/53033648/79081920-afff6600-7cef-11ea-94f1-705a04ef29be.png">
+
 
 
 # How to use with any disease data : 
