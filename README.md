@@ -8,6 +8,10 @@ Repo that contains the Excel and Jupyter notebook files for the SIR Model
 
 ![download (11)](https://user-images.githubusercontent.com/53033648/79083872-cc56cf00-7cfe-11ea-954c-b786739963b3.png)
 
+# SIR Log graphs
+![download (12)](https://user-images.githubusercontent.com/53033648/79609300-81550700-80c4-11ea-9fd0-bdd3977b59ce.png)
+
+![log chart](https://user-images.githubusercontent.com/53033648/79609301-81ed9d80-80c4-11ea-911c-f632e8885ab9.png)
 
 
 # SIR In One Graph
@@ -18,10 +22,6 @@ Repo that contains the Excel and Jupyter notebook files for the SIR Model
 
 <img width="366" alt="Screen Shot 2020-04-13 at 10 52 00 AM" src="https://user-images.githubusercontent.com/53033648/79130376-de735480-7d74-11ea-8446-c34e8ea9383f.png">
 
-# SIR Log graphs
-![download (12)](https://user-images.githubusercontent.com/53033648/79609300-81550700-80c4-11ea-9fd0-bdd3977b59ce.png)
-
-![log chart](https://user-images.githubusercontent.com/53033648/79609301-81ed9d80-80c4-11ea-911c-f632e8885ab9.png)
 
 
 
